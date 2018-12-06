@@ -1,0 +1,15 @@
+{
+  "parts": {
+    "name": "parts",
+    "connector": "mysql",
+    "host": "localhost",
+    "port": 8889,
+    "database": "parts",
+    "password": "test123",
+    "user": "test"
+   },
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  }
+}
